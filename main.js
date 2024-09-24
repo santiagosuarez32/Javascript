@@ -7,3 +7,5 @@ console.log(`Hola soy ${nombre}`)
 console.log(`Hola soy ` + nombre) */
 
 let nombreUsuario = prompt(`Me queres?`)
+let nombreUsuario = prompt(`Me queres?`)
+let nombreUsuario = prompt(`Me queres?`)
