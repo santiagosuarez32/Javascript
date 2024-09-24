@@ -7,3 +7,4 @@ console.log(`Hola soy ${nombre}`)
 console.log(`Hola soy ` + nombre) */
 
 let nombreUsuario = prompt(`Me queres?`)
+console.log = alert ("yo tambien")
